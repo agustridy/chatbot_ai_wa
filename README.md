@@ -174,7 +174,7 @@ python main.py
 4. **Database Scaling**: PostgreSQL/MySQL untuk production
    
 ## Support Me
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=username&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/agustridy)
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=agustridy&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/agustridy)
 
 ## 📝 Lisensi
 Proyek ini open-source di bawah lisensi MIT.
