@@ -3,6 +3,8 @@
 ## 📋 Deskripsi Aplikasi
 AI Chatbot Customer Service adalah aplikasi chatbot pintar untuk bisnis yang dapat melayani pelanggan 24/7 melalui WhatsApp/SMS. Chatbot ini dilengkapi dengan fitur-fitur canggih seperti auto-reply, pemrosesan pesanan otomatis, integrasi database produk, dan multi-language support.
 
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zZ8V3eHfz98)
+
 ## ✨ Fitur Utama
 - ✅ **Auto-reply 24/7**: Melayani pelanggan kapan saja
 - ✅ **Pemrosesan Pesanan Otomatis**: Handle order dengan format sederhana
