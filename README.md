@@ -172,6 +172,9 @@ python main.py
 2. **Async Processing**: Celery untuk task berat
 3. **Load Balancing**: Multiple worker instances
 4. **Database Scaling**: PostgreSQL/MySQL untuk production
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow)](https://www.buymeacoffee.com/agustridy)
+   
+## Support Me
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=username&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/agustridy)
+
 ## 📝 Lisensi
 Proyek ini open-source di bawah lisensi MIT.
